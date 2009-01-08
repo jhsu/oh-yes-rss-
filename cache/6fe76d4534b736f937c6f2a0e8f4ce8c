@@ -1,0 +1,53 @@
+O:9:"MagpieRSS":23:{s:6:"parser";i:0;s:12:"current_item";a:0:{}s:5:"items";a:3:{i:0;a:13:{s:5:"title";s:35:"Wordpress: Query this month?s posts";s:4:"link";s:65:"http://josephhsu.com/wordpress/wordpress-query-this-months-posts/";s:8:"comments";s:74:"http://josephhsu.com/wordpress/wordpress-query-this-months-posts/#comments";s:7:"pubdate";s:31:"Thu, 09 Aug 2007 21:28:01 +0000";s:2:"dc";a:1:{s:7:"creator";s:5:"jshsu";}s:8:"category";s:9:"wordpress";s:4:"guid";s:65:"http://josephhsu.com/wordpress/wordpress-query-this-months-posts/";s:11:"description";s:147:"While setting up this blog, I came across the issue of being able to list posts by month.  I know that this would involve query_posts or WP_query.
+";s:7:"content";a:1:{s:7:"encoded";s:307:"<p>While setting up this blog, I came across the issue of being able to list posts by month.  I know that this would involve <code>query_posts</code> or <code>WP_query</code>.</p>
+<p> <a href="http://josephhsu.com/wordpress/wordpress-query-this-months-posts/#more-7" class="more-link">(more&#8230;)</a></p>
+";}s:3:"wfw";a:1:{s:10:"commentrss";s:70:"http://josephhsu.com/wordpress/wordpress-query-this-months-posts/feed/";}s:7:"summary";s:147:"While setting up this blog, I came across the issue of being able to list posts by month.  I know that this would involve query_posts or WP_query.
+";s:12:"atom_content";s:307:"<p>While setting up this blog, I came across the issue of being able to list posts by month.  I know that this would involve <code>query_posts</code> or <code>WP_query</code>.</p>
+<p> <a href="http://josephhsu.com/wordpress/wordpress-query-this-months-posts/#more-7" class="more-link">(more&#8230;)</a></p>
+";s:14:"date_timestamp";i:1186694881;}i:1;a:13:{s:5:"title";s:32:"Task Tackling: Feel the Progress";s:4:"link";s:57:"http://josephhsu.com/gtd/task-tackling-feel-the-progress/";s:8:"comments";s:66:"http://josephhsu.com/gtd/task-tackling-feel-the-progress/#comments";s:7:"pubdate";s:31:"Thu, 09 Aug 2007 05:50:15 +0000";s:2:"dc";a:1:{s:7:"creator";s:5:"jshsu";}s:8:"category";s:10:"post-itgtd";s:4:"guid";s:25:"http://josephhsu.com/?p=4";s:11:"description";s:187:"
+This past week has been one hectic week hasn&#8217;t it?   I have been overwhelmed with large tasks in short periods of time.  At first, they seemed impossible, but they had to be done.
+";s:7:"content";a:1:{s:7:"encoded";s:415:"<p><img src="http://josephhsu.com/wp-content/uploads/2007/08/837189_168608831.jpg" alt="Stairs" /></p>
+<p>This past week has been one hectic week hasn&#8217;t it?   I have been overwhelmed with large tasks in short periods of time.  At first, they seemed impossible, but they had to be done.</p>
+<p> <a href="http://josephhsu.com/gtd/task-tackling-feel-the-progress/#more-4" class="more-link">(more&#8230;)</a></p>
+";}s:3:"wfw";a:1:{s:10:"commentrss";s:62:"http://josephhsu.com/gtd/task-tackling-feel-the-progress/feed/";}s:7:"summary";s:187:"
+This past week has been one hectic week hasn&#8217;t it?   I have been overwhelmed with large tasks in short periods of time.  At first, they seemed impossible, but they had to be done.
+";s:12:"atom_content";s:415:"<p><img src="http://josephhsu.com/wp-content/uploads/2007/08/837189_168608831.jpg" alt="Stairs" /></p>
+<p>This past week has been one hectic week hasn&#8217;t it?   I have been overwhelmed with large tasks in short periods of time.  At first, they seemed impossible, but they had to be done.</p>
+<p> <a href="http://josephhsu.com/gtd/task-tackling-feel-the-progress/#more-4" class="more-link">(more&#8230;)</a></p>
+";s:14:"date_timestamp";i:1186638615;}i:2;a:12:{s:5:"title";s:12:"Hello world!";s:4:"link";s:47:"http://josephhsu.com/uncategorized/hello-world/";s:8:"comments";s:56:"http://josephhsu.com/uncategorized/hello-world/#comments";s:7:"pubdate";s:31:"Mon, 06 Aug 2007 05:34:39 +0000";s:2:"dc";a:1:{s:7:"creator";s:5:"admin";}s:8:"category";s:13:"Uncategorized";s:11:"description";s:141:"Welcome to WordPress. This is your first post. Edit or delete it, then start blogging!
+here&#8217;s a list
+
+item #1
+item #2
+item #3
+item #4
+
+";s:7:"content";a:1:{s:7:"encoded";s:309:"<p>Welcome to WordPress. This is your first post. Edit or delete it, then start blogging!</p>
+<p>here&#8217;s a list</p>
+<ul>
+<li>item #1</li>
+<li>item #2</li>
+<li>item #3</li>
+<li>item #4</li>
+</ul>
+<p> <a href="http://josephhsu.com/uncategorized/hello-world/#more-1" class="more-link">(more&#8230;)</a></p>
+";}s:3:"wfw";a:1:{s:10:"commentrss";s:52:"http://josephhsu.com/uncategorized/hello-world/feed/";}s:7:"summary";s:141:"Welcome to WordPress. This is your first post. Edit or delete it, then start blogging!
+here&#8217;s a list
+
+item #1
+item #2
+item #3
+item #4
+
+";s:12:"atom_content";s:309:"<p>Welcome to WordPress. This is your first post. Edit or delete it, then start blogging!</p>
+<p>here&#8217;s a list</p>
+<ul>
+<li>item #1</li>
+<li>item #2</li>
+<li>item #3</li>
+<li>item #4</li>
+</ul>
+<p> <a href="http://josephhsu.com/uncategorized/hello-world/#more-1" class="more-link">(more&#8230;)</a></p>
+";s:14:"date_timestamp";i:1186378479;}}s:7:"channel";a:7:{s:5:"title";s:10:"Joseph Hsu";s:4:"link";s:20:"http://josephhsu.com";s:11:"description";s:29:"Just another WordPress weblog";s:7:"pubdate";s:31:"Thu, 09 Aug 2007 21:40:49 +0000";s:9:"generator";s:29:"http://wordpress.org/?v=2.2.1";s:8:"language";s:2:"en";s:7:"tagline";s:29:"Just another WordPress weblog";}s:9:"textinput";a:0:{}s:5:"image";a:0:{}s:9:"feed_type";s:3:"RSS";s:12:"feed_version";s:3:"2.0";s:8:"encoding";s:10:"ISO-8859-1";s:16:"_source_encoding";s:0:"";s:5:"ERROR";s:0:"";s:7:"WARNING";s:0:"";s:19:"_CONTENT_CONSTRUCTS";a:6:{i:0;s:7:"content";i:1;s:7:"summary";i:2;s:4:"info";i:3;s:5:"title";i:4;s:7:"tagline";i:5;s:9:"copyright";}s:16:"_KNOWN_ENCODINGS";a:3:{i:0;s:5:"UTF-8";i:1;s:8:"US-ASCII";i:2;s:10:"ISO-8859-1";}s:5:"stack";a:0:{}s:9:"inchannel";b:0;s:6:"initem";b:0;s:9:"incontent";b:0;s:11:"intextinput";b:0;s:7:"inimage";b:0;s:17:"current_namespace";b:0;s:4:"etag";s:36:""009df8702f7e08c2215b624e825bd521"
+";s:13:"last_modified";s:31:"Thu, 09 Aug 2007 21:40:49 GMT
+";}

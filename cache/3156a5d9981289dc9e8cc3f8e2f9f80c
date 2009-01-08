@@ -1,0 +1,71 @@
+O:9:"MagpieRSS":21:{s:6:"parser";i:0;s:12:"current_item";a:0:{}s:5:"items";a:10:{i:0;a:10:{s:5:"title";s:52:"jhsu: at Essential Rails learning about cool things.";s:2:"id";s:20:"urn:uuid:jhsu:747049";s:6:"pownce";a:4:{s:5:"stars";s:3:"0.0";s:7:"replies";s:1:"0";s:15:"author_username";s:4:"jhsu";s:12:"author_image";s:61:"http://pownce.com/profile_photos/j/h/s/jhsu/15646_smedium.jpg";}s:9:"link_self";s:45:"http://pownce.com/api/notes/from/jhsu/747049/";s:7:"updated";s:20:"2007-09-21T18:28:59Z";s:7:"summary";s:46:"at Essential Rails learning about cool things.";s:4:"link";s:36:"http://pownce.com/jhsu/notes/747049/";s:6:"author";s:33:"
+    
+    
+    
+    
+    
+    
+  ";s:11:"author_name";s:10:"Joseph Hsu";s:10:"author_uri";s:23:"http://pownce.com/jhsu/";}i:1;a:10:{s:5:"title";s:67:"jhsu: Going to Essential Rails in Chicago on upcoming sept 20th....";s:2:"id";s:20:"urn:uuid:jhsu:691848";s:6:"pownce";a:4:{s:5:"stars";s:3:"0.0";s:7:"replies";s:1:"0";s:15:"author_username";s:4:"jhsu";s:12:"author_image";s:61:"http://pownce.com/profile_photos/j/h/s/jhsu/15646_smedium.jpg";}s:9:"link_self";s:45:"http://pownce.com/api/notes/from/jhsu/691848/";s:7:"updated";s:20:"2007-09-11T02:12:58Z";s:7:"summary";s:58:"Going to Essential Rails in Chicago on upcoming sept 20th.";s:4:"link";s:36:"http://pownce.com/jhsu/notes/691848/";s:6:"author";s:33:"
+    
+    
+    
+    
+    
+    
+  ";s:11:"author_name";s:10:"Joseph Hsu";s:10:"author_uri";s:23:"http://pownce.com/jhsu/";}i:2;a:10:{s:5:"title";s:52:"jhsu: Glad I will have a house to stay in soon......";s:2:"id";s:20:"urn:uuid:jhsu:508799";s:6:"pownce";a:4:{s:5:"stars";s:3:"0.0";s:7:"replies";s:1:"3";s:15:"author_username";s:4:"jhsu";s:12:"author_image";s:61:"http://pownce.com/profile_photos/j/h/s/jhsu/15646_smedium.jpg";}s:9:"link_self";s:45:"http://pownce.com/api/notes/from/jhsu/508799/";s:7:"updated";s:20:"2007-08-14T00:16:40Z";s:7:"summary";s:99:"Glad I will have a house to stay in soon... but for now, temporary bum, coming to a house near you.";s:4:"link";s:36:"http://pownce.com/jhsu/notes/508799/";s:6:"author";s:33:"
+    
+    
+    
+    
+    
+    
+  ";s:11:"author_name";s:10:"Joseph Hsu";s:10:"author_uri";s:23:"http://pownce.com/jhsu/";}i:3;a:11:{s:5:"title";s:66:"jhsu: Hmm, just made a small Facebook Application... now to get...";s:2:"id";s:20:"urn:uuid:jhsu:492298";s:6:"pownce";a:4:{s:5:"stars";s:3:"0.0";s:7:"replies";s:1:"0";s:15:"author_username";s:4:"jhsu";s:12:"author_image";s:61:"http://pownce.com/profile_photos/j/h/s/jhsu/15646_smedium.jpg";}s:9:"link_self";s:45:"http://pownce.com/api/notes/from/jhsu/492298/";s:7:"updated";s:20:"2007-08-11T08:35:29Z";s:7:"summary";s:69:"Hmm, just made a small Facebook Application... now to get bought out.";s:12:"link_related";s:33:"http://apps.facebook.com/ohyesrss";s:4:"link";s:36:"http://pownce.com/jhsu/notes/492298/";s:6:"author";s:33:"
+    
+    
+    
+    
+    
+    
+  ";s:11:"author_name";s:10:"Joseph Hsu";s:10:"author_uri";s:23:"http://pownce.com/jhsu/";}i:4;a:11:{s:5:"title";s:52:"jhsu: I like to look at my gadgets naked: iMac of...";s:2:"id";s:20:"urn:uuid:jhsu:479393";s:6:"pownce";a:4:{s:5:"stars";s:3:"0.0";s:7:"replies";s:1:"0";s:15:"author_username";s:4:"jhsu";s:12:"author_image";s:61:"http://pownce.com/profile_photos/j/h/s/jhsu/15646_smedium.jpg";}s:9:"link_self";s:45:"http://pownce.com/api/notes/from/jhsu/479393/";s:7:"updated";s:20:"2007-08-09T19:34:56Z";s:7:"summary";s:48:"I like to look at my gadgets naked: iMac of 2007";s:12:"link_related";s:87:"http://crunchgear.com/2007/08/09/imac-gets-stripped-naked-apple-fanboys-weep-worldwide/";s:4:"link";s:36:"http://pownce.com/jhsu/notes/479393/";s:6:"author";s:33:"
+    
+    
+    
+    
+    
+    
+  ";s:11:"author_name";s:10:"Joseph Hsu";s:10:"author_uri";s:23:"http://pownce.com/jhsu/";}i:5;a:10:{s:5:"title";s:31:"jhsu: I have the worst of luck.";s:2:"id";s:20:"urn:uuid:jhsu:456292";s:6:"pownce";a:4:{s:5:"stars";s:3:"0.0";s:7:"replies";s:1:"0";s:15:"author_username";s:4:"jhsu";s:12:"author_image";s:61:"http://pownce.com/profile_photos/j/h/s/jhsu/15646_smedium.jpg";}s:9:"link_self";s:45:"http://pownce.com/api/notes/from/jhsu/456292/";s:7:"updated";s:20:"2007-08-07T17:47:01Z";s:7:"summary";s:25:"I have the worst of luck.";s:4:"link";s:36:"http://pownce.com/jhsu/notes/456292/";s:6:"author";s:33:"
+    
+    
+    
+    
+    
+    
+  ";s:11:"author_name";s:10:"Joseph Hsu";s:10:"author_uri";s:23:"http://pownce.com/jhsu/";}i:6;a:11:{s:5:"title";s:24:"jhsu: ultimate initial D";s:2:"id";s:20:"urn:uuid:jhsu:379336";s:6:"pownce";a:4:{s:5:"stars";s:3:"0.0";s:7:"replies";s:1:"0";s:15:"author_username";s:4:"jhsu";s:12:"author_image";s:61:"http://pownce.com/profile_photos/j/h/s/jhsu/15646_smedium.jpg";}s:9:"link_self";s:45:"http://pownce.com/api/notes/from/jhsu/379336/";s:7:"updated";s:20:"2007-07-31T02:56:06Z";s:7:"summary";s:18:"ultimate initial D";s:12:"link_related";s:120:"http://feeds.gawker.com/~r/gizmodo/full/~3/138906813/japanese-initial-d-arcade-booth-features-actual-tofu-car-283946.php";s:4:"link";s:36:"http://pownce.com/jhsu/notes/379336/";s:6:"author";s:33:"
+    
+    
+    
+    
+    
+    
+  ";s:11:"author_name";s:10:"Joseph Hsu";s:10:"author_uri";s:23:"http://pownce.com/jhsu/";}i:7;a:11:{s:5:"title";s:47:"jhsu: Humor me. This tickles me like a feather.";s:2:"id";s:20:"urn:uuid:jhsu:331864";s:6:"pownce";a:4:{s:5:"stars";s:3:"0.0";s:7:"replies";s:1:"0";s:15:"author_username";s:4:"jhsu";s:12:"author_image";s:61:"http://pownce.com/profile_photos/j/h/s/jhsu/15646_smedium.jpg";}s:9:"link_self";s:45:"http://pownce.com/api/notes/from/jhsu/331864/";s:7:"updated";s:20:"2007-07-26T21:51:40Z";s:7:"summary";s:41:"Humor me. This tickles me like a feather.";s:12:"link_related";s:19:"http://xkcd.com/84/";s:4:"link";s:36:"http://pownce.com/jhsu/notes/331864/";s:6:"author";s:33:"
+    
+    
+    
+    
+    
+    
+  ";s:11:"author_name";s:10:"Joseph Hsu";s:10:"author_uri";s:23:"http://pownce.com/jhsu/";}i:8;a:10:{s:5:"title";s:60:"jhsu: Oh boy. Broke the computer again.  Steve Jobs, save...";s:2:"id";s:20:"urn:uuid:jhsu:286928";s:6:"pownce";a:4:{s:5:"stars";s:3:"0.0";s:7:"replies";s:1:"0";s:15:"author_username";s:4:"jhsu";s:12:"author_image";s:61:"http://pownce.com/profile_photos/j/h/s/jhsu/15646_smedium.jpg";}s:9:"link_self";s:45:"http://pownce.com/api/notes/from/jhsu/286928/";s:7:"updated";s:20:"2007-07-23T03:34:20Z";s:7:"summary";s:79:"Oh boy. Broke the computer again.  Steve Jobs, save me with a free Macbook Pro?";s:4:"link";s:36:"http://pownce.com/jhsu/notes/286928/";s:6:"author";s:33:"
+    
+    
+    
+    
+    
+    
+  ";s:11:"author_name";s:10:"Joseph Hsu";s:10:"author_uri";s:23:"http://pownce.com/jhsu/";}i:9;a:11:{s:5:"title";s:55:"jhsu: I would get an iPhone just for this... (iTrapped)";s:2:"id";s:20:"urn:uuid:jhsu:273719";s:6:"pownce";a:4:{s:5:"stars";s:3:"0.0";s:7:"replies";s:1:"0";s:15:"author_username";s:4:"jhsu";s:12:"author_image";s:61:"http://pownce.com/profile_photos/j/h/s/jhsu/15646_smedium.jpg";}s:9:"link_self";s:45:"http://pownce.com/api/notes/from/jhsu/273719/";s:7:"updated";s:20:"2007-07-21T01:17:29Z";s:7:"summary";s:49:"I would get an iPhone just for this... (iTrapped)";s:12:"link_related";s:59:"http://flickr.com/photos/stillframe/sets/72157600824703758/";s:4:"link";s:36:"http://pownce.com/jhsu/notes/273719/";s:6:"author";s:33:"
+    
+    
+    
+    
+    
+    
+  ";s:11:"author_name";s:10:"Joseph Hsu";s:10:"author_uri";s:23:"http://pownce.com/jhsu/";}}s:7:"channel";a:5:{s:5:"title";s:27:"Public Notes from Joseph H.";s:2:"id";s:25:"urn:uuid:feed.public:jhsu";s:7:"updated";s:20:"2007-09-21T18:28:59Z";s:9:"link_self";s:36:"http://pownce.com/feeds/public/jhsu/";s:4:"link";s:36:"http://pownce.com/feeds/public/jhsu/";}s:9:"textinput";a:0:{}s:5:"image";a:0:{}s:9:"feed_type";s:4:"Atom";s:12:"feed_version";N;s:8:"encoding";s:10:"ISO-8859-1";s:16:"_source_encoding";s:0:"";s:5:"ERROR";s:0:"";s:7:"WARNING";s:0:"";s:19:"_CONTENT_CONSTRUCTS";a:6:{i:0;s:7:"content";i:1;s:7:"summary";i:2;s:4:"info";i:3;s:5:"title";i:4;s:7:"tagline";i:5;s:9:"copyright";}s:16:"_KNOWN_ENCODINGS";a:3:{i:0;s:5:"UTF-8";i:1;s:8:"US-ASCII";i:2;s:10:"ISO-8859-1";}s:5:"stack";a:0:{}s:9:"inchannel";b:0;s:6:"initem";b:0;s:9:"incontent";b:0;s:11:"intextinput";b:0;s:7:"inimage";b:0;s:17:"current_namespace";b:0;}
